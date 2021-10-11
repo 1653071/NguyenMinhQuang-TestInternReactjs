@@ -56,7 +56,7 @@ export default function IntroBanner() {
           <div>my order</div>
           <p>
             내 주문 주문 배송 취소 / 교환 / 반품 내역 상품 리뷰 내역 증빙 서류
-            발급
+            발급111
           </p>
         </LeftContent>
         <LeftContent>
